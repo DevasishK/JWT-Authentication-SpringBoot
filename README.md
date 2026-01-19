@@ -15,16 +15,6 @@ When the user makes subsequent requests to the server, the client includes the J
 
 <br>
 
-## Architecture of JWT Authentication Flow
-
-<p align="center"><img src="https://github.com/pkini2002/NMAMIT-CSE-Labs-2020-24/assets/84091455/c39f242b-8d08-4a4d-92b5-74f76cdf6be0" width="500"></p>
-
-## Steps to implement the project
-
-- Navigate to <a href="https://start.spring.io/">Spring Initializr </a> and create a new Spring Boot Project
-
-  <br>
-
 ### Specifications
 
 <table>
